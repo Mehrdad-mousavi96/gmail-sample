@@ -1,24 +1,24 @@
 export const emailData = [
     {
         starred: true,
-        from: 'Naz',
-        subject: 'Yoooo',
-        message: 'sup bro',
-        received: '08:20',
+        from: 'Mehrdad',
+        subject: 'Hellooooo',
+        message: 'Hi Guys',
+        received: '5:44:24',
         read: true
     }, {
         starred: true,
-        from: 'Qazi',
-        subject: 'Yoooo',
-        message: 'sup broooooo',
-        received: '08:30',
+        from: 'MySelf',
+        subject: 'Hiiiiiiiii',
+        message: 'Open this message',
+        received: '4:22:20',
         read: true
     }, {
         starred: false,
-        from: 'Amaanath',
-        subject: 'Yoooo',
-        message: 'sup breh',
-        received: '09:25',
+        from: 'Friends',
+        subject: 'Bye bye',
+        message: 'Thanks',
+        received: '09:25:12',
         read: false
     },
 ]
